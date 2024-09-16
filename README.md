@@ -1,1 +1,1 @@
-# 2nd_year_programming
+# IT_2nd_YEAR
